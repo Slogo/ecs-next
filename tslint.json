@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "member-access": false,
+    "no-bitwise": false,
+    "no-conditional-assignment": false,
+    "no-unused-expression": false,
+    "no-var-requires": false,
+    "object-literal-sort-keys": false,
+    "one-variable-per-declaration": false,
+    "quotemark": [true, "double"]
+  },
+  "extends": ["tslint:latest", "tslint-config-prettier"]
+}

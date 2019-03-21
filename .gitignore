@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+yarn-error.log
+dist/
+tsdist/
+coverage/
+amrita.zip
+amrita.zip.gz
+stats.json
